@@ -3,3 +3,15 @@
 🤗 **NAME:** THARANKESWARAN 
 ## 8085-microprocessor
 
+### 1️⃣ ADDITION
+![image](ADDITION.jpg)
+
+### 2️⃣ SUBTRACTION
+![image](SUBTRACTION.jpg)
+
+### 3️⃣ MULTIPLICATION
+![image](MULTIPLICATION.jpg)
+
+
+### 4️⃣ DIVISION
+![image](DIVISION.jpg)
