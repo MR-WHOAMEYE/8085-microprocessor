@@ -46,6 +46,29 @@ Output
 ### 3️⃣ MULTIPLICATION
 ![image](MULTIPLICATION.jpg)
 
+```assembly
+LDA 2200
+MOV E, A
+MVI D,00
+LDA 2201
+MOV C, A
+LXI H, 0000
+BACK: DAD D
+DCR C
+JNZ BACK
+SHLD 2202
+HLT
+```
+Input 
+
+2200 `4`
+
+2201 `2`
+
+Output 
+
+2202 `8`
+
 
 ### 4️⃣ DIVISION
 ![image](DIVISION.jpg)
