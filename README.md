@@ -4,7 +4,7 @@
 ## 8085-microprocessor
 
 ### 1️⃣ ADDITION
-![image](ADDITION.jpg)
+![i](ADDITION.jpg)
 ```assembly
 LDA 8050  
 MOV B, A  
